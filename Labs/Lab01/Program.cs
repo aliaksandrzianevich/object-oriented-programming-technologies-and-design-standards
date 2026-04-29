@@ -1,4 +1,6 @@
-﻿namespace Lab01;
+﻿using System;
+
+namespace Lab01;
 
 // Interface Корабль
 internal interface IKorabl
